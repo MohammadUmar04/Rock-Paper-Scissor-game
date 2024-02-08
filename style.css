@@ -1,0 +1,12 @@
+body{
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+#result {
+    font-size: 20px;
+    margin-top: 20px;
+    color: pink;
+
+}
